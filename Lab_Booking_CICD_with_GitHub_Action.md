@@ -2005,7 +2005,9 @@ cf-cache-status: DYNAMIC
 CF-RAY: 9ff1496f3e0d4b52-BKK
 alt-svc: h3=":443"; ma=86400
 ```
-
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 ### ขั้นตอนที่ 9.6: ทดสอบ Auto-Deployment (สำคัญ)
 
 ทดสอบว่าเมื่อ push code ใหม่ pipeline ทำงานอัตโนมัติครบทุกขั้นตอน:
